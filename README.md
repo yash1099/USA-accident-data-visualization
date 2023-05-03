@@ -1,6 +1,6 @@
 # USA-accident-data-visualization
 USA Accidents Data Visualization
-This project aims to visualize the USA accidents data obtained from Kaggle. The dataset contains information about accidents that occurred in the USA between 2016-2021, including their severity, location, weather conditions, and other factors.
+This project aims to visualize the USA accidents data obtained from Kaggle (https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents). The dataset contains information about accidents that occurred in the USA between 2016-2021, including their severity, location, weather conditions, and other factors.
 
 ## The project consists of three main components:
 
